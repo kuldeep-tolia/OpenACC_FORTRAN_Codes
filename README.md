@@ -1,1 +1,3 @@
-# OpenACC_FORTRAN_Codes
+-> This repository has computer programs written in FORTRAN and has two sections:
+- Section-1 discusses about the basic OpenACC clauses/constructs and demonstrates their usage via computer programs.  
+- Section-2 discusses about the numerical methods and miscellaneous problems which are parallelized using OpenACC and ran on GPU, and checks its parallel computing performance.
